@@ -1,13 +1,13 @@
 https://starback-shop.wuaze.com/
 
-1.  Role admin, 
-  username: admin
-  password: admin
+1.  Role admin,
+- username: admin
+- password: admin
   
-2.  Role manajer
-  username: manajer
-  password: manajer
+3.  Role manajer
+- username: manajer
+- password: manajer
   
-3.  Role kasir
-  username: kasir
-  password: kasir
+5.  Role kasir
+- username: kasir
+- password: kasir
