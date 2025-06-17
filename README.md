@@ -1,9 +1,11 @@
 1.Role admin, 
   username: admin
   password: admin
+  
 2.Role manajer
   username: manajer
   password: manajer
+  
 3.Role kasir
   username: kasir
   password: kasir
