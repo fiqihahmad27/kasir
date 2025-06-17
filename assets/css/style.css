@@ -1,0 +1,59 @@
+.btn.btnnn {
+    background-color: #6993FF;
+    color: white !important;
+}
+
+.btnnn:hover {
+    background-color: #137FF1;
+    color: white;
+}
+
+.modal-header.bg-modal {
+    background-color: #6993FF;
+}
+
+/* Style DataTables */
+
+#example_previous a {
+    background-color: #F7F7F7;
+    color: #B0ACAC;
+}
+
+#example_previous a:hover {
+    background-color: #6993FF;
+    color: white;
+}
+
+#example_next a {
+    background-color: #F7F7F7;
+    color: #B0ACAC;
+}
+
+#example_next a:hover {
+    background-color: #6993FF;
+    color: white;
+}
+
+.dataTables_paginate a {
+    border: none;
+    border-radius: 5px;
+    background-color: #F7F7F7;
+    color: #B0ACAC;
+    font-weight: bold;
+}
+
+.dataTables_paginate a:hover {
+    background-color: #6993FF;
+    color: white;
+}
+
+.paginate_button {
+    font-size: small;
+    padding: 2px;
+    margin-top: 5px;
+}
+
+.paginate_button.active .page-link {
+    background-color: #6993ff !important;
+    border: none solid #6993FF !important;
+}

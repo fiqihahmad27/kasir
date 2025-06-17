@@ -1,0 +1,27 @@
+body {
+  padding-top: 3rem;
+  padding-bottom: 3rem;
+}
+
+main {
+  margin: 2rem 0;
+}
+
+.logout-btn {
+  color: rgba(255, 255, 255, .5);
+  padding-left: 2rem;
+}
+
+.logout-btn:hover {
+  text-decoration: none;
+  color: rgba(255, 255, 255, 0.75);
+}
+
+.icon {
+  padding: 0 6rem;
+  margin-top: 1rem;
+}
+
+footer {
+  margin-top: 2rem;
+}
