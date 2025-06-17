@@ -1,4 +1,4 @@
-https://starback-shop.wuaze.com/
+
 
 1.  Role admin,
 - username: admin
